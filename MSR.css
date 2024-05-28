@@ -1,0 +1,22 @@
+
+#sectionNavegacion{
+    display: block;
+}
+#linksPrincipales{
+    display: block !important;
+}
+ .pane-jumbotron{
+    display: block !important;
+}
+
+#tituloPagina{
+    display: none;
+}
+
+#ms-designer-ribbon{
+    display:none;
+}
+
+#sectionAreas .container .panel-pane .pane-content h2 {
+    display: none;
+    }
